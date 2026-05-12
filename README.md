@@ -41,7 +41,7 @@ My work lives at the intersection of **LLMs, autonomous agents, voice AI**, and 
 
 - 🏗️ Architecting AI-driven products: voice agents, multi-agent pipelines, and intelligent backends
 - 🤖 Deep in the LLM stack — RAG, fine-tuning, prompt engineering, agent orchestration
-- 🏥 Building AI solutions for healthcare, SEO, and enterprise operations
+- 🏥 Building AI solutions for enterprises
 - 🎓 CS in Artificial Intelligence @ Bahria University (2021–2025)
 - 📍 Based in Karachi, Pakistan — building globally
 
